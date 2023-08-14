@@ -1,0 +1,6 @@
+﻿  Building Custom Rule D:/Programming/Projects/graphics/libs/glfw-src/tests/CMakeLists.txt
+  inputlag.c
+  getopt.c
+  glad_gl.c
+  Generating Code...
+  inputlag.vcxproj -> D:\Programming\Projects\graphics\libs\glfw\tests\Debug\inputlag.exe

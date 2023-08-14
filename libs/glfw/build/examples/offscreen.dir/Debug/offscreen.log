@@ -1,0 +1,5 @@
+﻿  Building Custom Rule D:/Programming/Projects/graphics/libs/glfw-src/examples/CMakeLists.txt
+  offscreen.c
+  glad_gl.c
+  Generating Code...
+  offscreen.vcxproj -> D:\Programming\Projects\graphics\libs\glfw\examples\Debug\offscreen.exe

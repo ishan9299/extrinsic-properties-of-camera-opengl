@@ -1,0 +1,12 @@
+camera-extrinsics-derivation/glad.obj
+camera-extrinsics-derivation/imgui.obj
+camera-extrinsics-derivation/imgui_demo.obj
+camera-extrinsics-derivation/imgui_draw.obj
+camera-extrinsics-derivation/imgui_impl_glfw.obj
+camera-extrinsics-derivation/imgui_impl_opengl3.obj
+camera-extrinsics-derivation/imgui_tables.obj
+camera-extrinsics-derivation/imgui_widgets.obj
+camera-extrinsics-derivation/main.exe
+camera-extrinsics-derivation/main.ilk
+camera-extrinsics-derivation/main.obj
+camera-extrinsics-derivation/main.pdb

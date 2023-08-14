@@ -1,0 +1,10 @@
+^D:\PROGRAMMING\PROJECTS\GRAPHICS\LIBS\GLFW-SRC\EXAMPLES\CMAKELISTS.TXT
+setlocal
+"D:\Program\Microsoft Visual Studio\2022\Community\Common7\IDE\CommonExtensions\Microsoft\CMake\CMake\bin\cmake.exe" -SD:/Programming/Projects/graphics/libs/glfw-src -BD:/Programming/Projects/graphics/libs/glfw --check-stamp-file D:/Programming/Projects/graphics/libs/glfw/examples/CMakeFiles/generate.stamp
+if %errorlevel% neq 0 goto :cmEnd
+:cmEnd
+endlocal & call :cmErrorLevel %errorlevel% & goto :cmDone
+:cmErrorLevel
+exit /b %1
+:cmDone
+if %errorlevel% neq 0 goto :VCEnd

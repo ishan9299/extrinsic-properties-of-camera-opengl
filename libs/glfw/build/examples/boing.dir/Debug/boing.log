@@ -1,0 +1,5 @@
+﻿  Building Custom Rule D:/Programming/Projects/graphics/libs/glfw-src/examples/CMakeLists.txt
+  boing.c
+  glad_gl.c
+  Generating Code...
+  boing.vcxproj -> D:\Programming\Projects\graphics\libs\glfw\examples\Debug\boing.exe
